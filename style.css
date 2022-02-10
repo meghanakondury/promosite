@@ -1,0 +1,46 @@
+
+.subheadings {
+  text-align: center;
+  font-family:'monospace';
+  color : #F2448B;
+
+}
+
+h2{
+  color:#F2448B;
+  font-size: 60px;
+  font-style: italic;
+
+}
+
+img{
+    border: 10px solid #F56713;
+  }
+body,html{
+  background-color: #F5F40A;
+  background-size: cover;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+h1{
+  font-family: 'Helvetica';
+  font-weight: bold;
+  color : #000000;
+  text-align: center;
+  font-size: 85px;
+}
+.pictures {
+	text-align: center;
+  padding: 20px;
+  color : #F2448B;
+
+}
+
+p {
+
+  color:#F2448B ;
+  font-size: 40px;
+  font-weight: bolder;
+}
